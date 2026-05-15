@@ -1,3 +1,48 @@
+<!-- unified-readme:start -->
+    <div align="center">
+
+    # Intune Device Troubleshooter
+
+    **PowerShell-based troubleshooting tool for diagnosing and resolving issues on Intune-managed Windows devices.**
+
+    Diagnose. Resolve. Improve.
+
+    [![GitHub stars](https://img.shields.io/github/stars/JayRHa/IntuneDeviceTroubleshooter?style=for-the-badge&logo=github&color=f4c542)](https://github.com/JayRHa/IntuneDeviceTroubleshooter/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/JayRHa/IntuneDeviceTroubleshooter?style=for-the-badge&logo=github&color=4078c0)](https://github.com/JayRHa/IntuneDeviceTroubleshooter/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/JayRHa/IntuneDeviceTroubleshooter?style=for-the-badge&logo=github&color=d73a4a)](https://github.com/JayRHa/IntuneDeviceTroubleshooter/issues)
+[![Contributors](https://img.shields.io/github/contributors/JayRHa/IntuneDeviceTroubleshooter?style=for-the-badge&logo=github&color=28a745)](https://github.com/JayRHa/IntuneDeviceTroubleshooter/graphs/contributors)
+
+    ---
+
+    `Endpoint Management` | `PowerShell` | `Public` | `Maintained`
+
+    </div>
+
+    ## What is this?
+
+    This repository contains powerShell-based troubleshooting tool for diagnosing and resolving issues on Intune-managed Windows devices.
+
+    > Browse the documentation below for setup notes, usage details, and project-specific context.
+
+    ---
+
+    ## Quick Start
+
+    1. Review the project documentation below.
+2. Clone the repository:
+
+   ```bash
+   git clone https://github.com/JayRHa/IntuneDeviceTroubleshooter.git
+   ```
+
+3. Follow the setup, deployment, or usage notes in the preserved documentation section.
+
+    ---
+    <!-- unified-readme:end -->
+
+
+## Existing Documentation
+
 # Intune Device Troubleshooter
 
 <p align="center">
@@ -59,7 +104,7 @@ If remediation/group operations fail in your tenant, validate additional delegat
 ## Quick Start
 
 ```powershell
-git clone https://github.com/JayRHa/Intune-Device-Troubleshooter.git
+git clone https://github.com/JayRHa/IntuneDeviceTroubleshooter.git
 cd Intune-Device-Troubleshooter
 ```
 
