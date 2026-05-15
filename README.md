@@ -13,7 +13,7 @@ Diagnose. Resolve. Improve.
 [![Contributors](https://img.shields.io/github/contributors/JayRHa/IntuneDeviceTroubleshooter?style=for-the-badge&logo=github&color=28a745)](https://github.com/JayRHa/IntuneDeviceTroubleshooter/graphs/contributors)
 
 <p align="center">
-  <img src=".images/startpage.png" alt="Intune Device Troubleshooter main view" width="100%" />
+  <img src="assets/startpage.png" alt="Intune Device Troubleshooter main view" width="100%" />
 </p>
 <p align="center">
   <a href="LICENSE">
@@ -75,11 +75,11 @@ flowchart LR
 
 | Device overview | Device actions |
 | --- | --- |
-| ![Overview](.images/overview.png) | ![Actions](.images/action.png) |
+| ![Overview](assets/overview.png) | ![Actions](assets/action.png) |
 
 | Recommendations | Remediation trigger |
 | --- | --- |
-| ![Recommendations](.images/recommendations.png) | ![Remediation](.images/remediation.png) |
+| ![Recommendations](assets/recommendations.png) | ![Remediation](assets/remediation.png) |
 
 ## Requirements
 
