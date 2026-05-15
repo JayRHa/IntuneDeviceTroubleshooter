@@ -3,7 +3,7 @@
 
 # Intune Device Troubleshooter
 
-**PowerShell-based troubleshooting tool for diagnosing and resolving issues on Intune-managed Windows devices.**
+**PowerShell desktop UI for fast, device-level Intune troubleshooting.**
 
 Diagnose. Resolve. Improve.
 
@@ -11,6 +11,18 @@ Diagnose. Resolve. Improve.
 [![GitHub forks](https://img.shields.io/github/forks/JayRHa/IntuneDeviceTroubleshooter?style=for-the-badge&logo=github&color=4078c0)](https://github.com/JayRHa/IntuneDeviceTroubleshooter/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/JayRHa/IntuneDeviceTroubleshooter?style=for-the-badge&logo=github&color=d73a4a)](https://github.com/JayRHa/IntuneDeviceTroubleshooter/issues)
 [![Contributors](https://img.shields.io/github/contributors/JayRHa/IntuneDeviceTroubleshooter?style=for-the-badge&logo=github&color=28a745)](https://github.com/JayRHa/IntuneDeviceTroubleshooter/graphs/contributors)
+
+<p align="center">
+  <img src=".images/startpage.png" alt="Intune Device Troubleshooter main view" width="100%" />
+</p>
+<p align="center">
+  <a href="LICENSE">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-2ea44f.svg" />
+  </a>
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-WPF-5391FE.svg" />
+  <img alt="Microsoft Graph" src="https://img.shields.io/badge/Microsoft%20Graph-beta-0078D4.svg" />
+</p>
+It combines managed device data, user context, compliance/configuration status, app deployment states, and remediation actions in one place so you can investigate and act without jumping through multiple admin portals.
 
 ---
 
@@ -42,42 +54,8 @@ flowchart LR
     Review --> Repo
 ```
 
-## Quick Start
-
-1. Review the project context and workflow below.
-2. Clone the repository:
-
-   ```bash
-   git clone https://github.com/JayRHa/IntuneDeviceTroubleshooter.git
-   ```
-
-3. Continue with the project-specific documentation in the next section.
-
 ---
 <!-- unified-readme:end -->
-
-<!-- project-documentation:start -->
-## Project Documentation
-
-The sections below contain the repository-specific setup, usage, and reference material for this project.
-
-# Intune Device Troubleshooter
-
-<p align="center">
-  <img src=".images/startpage.png" alt="Intune Device Troubleshooter main view" width="100%" />
-</p>
-
-<p align="center">
-  <a href="LICENSE">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-2ea44f.svg" />
-  </a>
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-WPF-5391FE.svg" />
-  <img alt="Microsoft Graph" src="https://img.shields.io/badge/Microsoft%20Graph-beta-0078D4.svg" />
-</p>
-
-PowerShell desktop UI for fast, device-level Intune troubleshooting.
-
-It combines managed device data, user context, compliance/configuration status, app deployment states, and remediation actions in one place so you can investigate and act without jumping through multiple admin portals.
 
 ## Highlights
 
