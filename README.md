@@ -1,34 +1,34 @@
 <!-- unified-readme:start -->
-    <div align="center">
+<div align="center">
 
-    # Intune Device Troubleshooter
+# Intune Device Troubleshooter
 
-    **PowerShell-based troubleshooting tool for diagnosing and resolving issues on Intune-managed Windows devices.**
+**PowerShell-based troubleshooting tool for diagnosing and resolving issues on Intune-managed Windows devices.**
 
-    Diagnose. Resolve. Improve.
+Diagnose. Resolve. Improve.
 
-    [![GitHub stars](https://img.shields.io/github/stars/JayRHa/IntuneDeviceTroubleshooter?style=for-the-badge&logo=github&color=f4c542)](https://github.com/JayRHa/IntuneDeviceTroubleshooter/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/JayRHa/IntuneDeviceTroubleshooter?style=for-the-badge&logo=github&color=f4c542)](https://github.com/JayRHa/IntuneDeviceTroubleshooter/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/JayRHa/IntuneDeviceTroubleshooter?style=for-the-badge&logo=github&color=4078c0)](https://github.com/JayRHa/IntuneDeviceTroubleshooter/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/JayRHa/IntuneDeviceTroubleshooter?style=for-the-badge&logo=github&color=d73a4a)](https://github.com/JayRHa/IntuneDeviceTroubleshooter/issues)
 [![Contributors](https://img.shields.io/github/contributors/JayRHa/IntuneDeviceTroubleshooter?style=for-the-badge&logo=github&color=28a745)](https://github.com/JayRHa/IntuneDeviceTroubleshooter/graphs/contributors)
 
-    ---
+---
 
-    `Endpoint Management` | `PowerShell` | `Public` | `Maintained`
+`Endpoint Management` | `PowerShell` | `Public` | `Maintained`
 
-    </div>
+</div>
 
-    ## What is this?
+## What is this?
 
-    This repository contains powerShell-based troubleshooting tool for diagnosing and resolving issues on Intune-managed Windows devices.
+This repository provides powerShell-based troubleshooting tool for diagnosing and resolving issues on Intune-managed Windows devices.
 
-    > Browse the documentation below for setup notes, usage details, and project-specific context.
+> Browse the documentation below for setup notes, usage details, and project-specific context.
 
-    ---
+---
 
-    ## Quick Start
+## Quick Start
 
-    1. Review the project documentation below.
+1. Review the project documentation below.
 2. Clone the repository:
 
    ```bash
@@ -37,9 +37,8 @@
 
 3. Follow the setup, deployment, or usage notes in the preserved documentation section.
 
-    ---
-    <!-- unified-readme:end -->
-
+---
+<!-- unified-readme:end -->
 
 ## Existing Documentation
 
