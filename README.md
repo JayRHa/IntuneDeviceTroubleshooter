@@ -20,7 +20,7 @@ Diagnose. Resolve. Improve.
 
 ## What is this?
 
-This repository provides powerShell-based troubleshooting tool for diagnosing and resolving issues on Intune-managed Windows devices.
+PowerShell-based troubleshooting tool for diagnosing and resolving issues on Intune-managed Windows devices.
 
 > Browse the documentation below for setup notes, usage details, and project-specific context.
 
@@ -104,7 +104,7 @@ If remediation/group operations fail in your tenant, validate additional delegat
 
 ```powershell
 git clone https://github.com/JayRHa/IntuneDeviceTroubleshooter.git
-cd Intune-Device-Troubleshooter
+cd IntuneDeviceTroubleshooter
 ```
 
 Unblock bundled DLLs once (recommended):
