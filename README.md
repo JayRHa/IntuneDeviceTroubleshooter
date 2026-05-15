@@ -24,6 +24,12 @@ Diagnose. Resolve. Improve.
 </p>
 It combines managed device data, user context, compliance/configuration status, app deployment states, and remediation actions in one place so you can investigate and act without jumping through multiple admin portals.
 
+<p>
+  <a href="https://jannikreinhard.com/">Blog</a> ·
+  <a href="https://www.linkedin.com/in/jannik-r/">LinkedIn</a> ·
+  <a href="https://x.com/jannik_reinhard">X</a>
+</p>
+
 ---
 
 `Endpoint Management` | `PowerShell` | `Public` | `Maintained`
@@ -144,8 +150,8 @@ The group prefix can be adjusted in `Start-DeviceTroubleshooter.ps1`.
 ## Author
 
 - Jannik Reinhard
-- Website: https://www.jannikreinhard.com
-- X/Twitter: https://twitter.com/jannik_reinhard
+- Website: https://jannikreinhard.com
+- X: https://x.com/jannik_reinhard
 - LinkedIn: https://www.linkedin.com/in/jannik-r/
 
 ## License
