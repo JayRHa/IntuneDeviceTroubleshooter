@@ -1,3 +1,18 @@
+<!-- repo-standard:start -->
+# Intune Device Troubleshooter
+
+PowerShell-based troubleshooting tool for diagnosing and resolving issues on Intune-managed Windows devices.
+
+| Area | Stack | Visibility |
+| --- | --- | --- |
+| Endpoint Management | PowerShell | Public |
+
+**Repository:** `JayRHa/intune-device-troubleshooter`  
+**Topics:** `microsoft-intune`, `powershell`, `troubleshooting`, `windows`, `endpoint-management`
+<!-- repo-standard:end -->
+
+---
+
 # Intune Device Troubleshooter
 
 <p align="center">
